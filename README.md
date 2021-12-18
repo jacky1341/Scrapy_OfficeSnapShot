@@ -12,9 +12,9 @@
 
 5. 使用：在Pycharm或Visual studio code内打开latest_officesnap.py文件
 
-6. office_snap.py为获取工程名称和工程介绍
+6. office_snap.py专门获取工程名称和工程介绍
 
-7. latest_officesnap.py为获取负责该工程企业的官网链接
+7. latest_officesnap.py专门获取负责该工程企业的官网链接
 
 8. 该脚本可用于配合snovi使用抓取企业关键联系人的邮箱信息，可用于自动化抓取数据；抓取的数据由Smartreach去进行自动化发开发信；最终形成一套开发信系统
 
